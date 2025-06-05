@@ -1,5 +1,5 @@
 
-# 🤖 CodSoft AI Internship Projects – Comprehensive AI/ML Portfolio
+# 🤖 CodSoft AI Internship Projects 
 
 This repository presents a collection of AI and machine learning projects completed during my internship with **CodSoft**. The projects demonstrate applied AI skills including rule-based systems, computer vision, game theory, and recommender systems — all implemented with clean code, interactive interfaces, and intelligent algorithms.
 
